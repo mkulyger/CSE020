@@ -1,0 +1,25 @@
+1. 
+- 1, 2, 3, 4, 5: 
+	~The average of 5 numbers: 3
+	~Average of positive numbers: 3
+- 5, 10, 15, 20, -25: 
+	~The average of 5 numbers: 5
+	~Average of positive numbers: 12
+- 5, -5, 0, 0, 0:
+	~The average of 5 numbers: 0
+	~Average of positive numbers: 5
+- 5, -5, 10, -10, 0:
+	~The average of 5 numbers: 0
+	~Average of positive numbers: 7
+- -1, -2, -3, -4, -5: 
+	~The average of 5 numbers: -3 
+	~Average of positive numbers: Undefined
+		There is no positive numbers being added, 
+		therefore you are dividing by zero
+
+2. The output of the code sequence found at the end of FiveAverage.java
+	is 10. 
+
+3. In the last statement, we needed to replace the single i and 
+	change it to i--. Since i-- is 8 at the end, we would then add
+	++i to get 9. At the end, it will print out 9.
